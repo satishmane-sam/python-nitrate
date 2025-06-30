@@ -81,7 +81,7 @@ or use PIP (sudo required if not in a virtualenv)::
 
     pip install nitrate
 
-Note that for successfull pip installation several extra
+Note that for successful pip installation several extra
 dependencies are necessary::
 
     yum install gcc python-devel krb5-devel postgresql-devel
